@@ -1,4 +1,4 @@
-Hi! I'm Jesus, an Electronics Engineer focusing on programming. 
+Hi! I'm Jesus, an Electronics Engineer focusing on web development. 
 
 ```toml
 [programmingLangs]
