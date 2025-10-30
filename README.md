@@ -1,6 +1,10 @@
-Hi! I'm Jesus, an Electronics Engineer focusing on web development. 
-
 ```toml
+[user]
+name = "Jesús"
+age = 27
+degree = "Engineering"
+hobbies = "Gaming, Music, Books, Programming"
+
 [programmingLangs]
 favorite = "C#"
 
