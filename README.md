@@ -7,6 +7,7 @@ hobbies = "Gaming, Music, Books, Programming"
 
 [programmingLangs]
 favorite = "C#"
+learning = "JavaScript, React"
 
 [humanLangs]
 native = "es-MX"
