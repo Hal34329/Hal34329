@@ -16,21 +16,21 @@ learning = "is-IS"
 ```
 
 ## Skills
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%236a329f.svg?logo=cshrp&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a?logo=latex&logoColor=00A0A0)](#)
 [![Warp](https://img.shields.io/badge/Warp-000?logo=warp&logoColor=fff)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-%2320232a?logo=git&logoColor=F05032)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=github&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?logo=html5&logoColor=%23E34F26)](#)
+[![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css&logoColor=639)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a?logo=javascript&logoColor=F7DF1E)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-%2320232a?logo=node.js&logoColor=6DA55F)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a?logo=typescript&logoColor=3178C6)](#)
+[![Vite](https://img.shields.io/badge/Vite-%2320232a?logo=vite&logoColor=646CFF)](#)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-%2320232a?logo=tailwindcss&logoColor=2338B2AC)](#)
-[![Yaak](https://img.shields.io/badge/Yaak-%236a329f?logo=yaak&logoColor=fff)](#)
+[![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 
 
 <!---
