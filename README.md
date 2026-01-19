@@ -33,7 +33,9 @@ learning = "is-IS"
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 
 
+
 <!---
+[![Nx](https://img.shields.io/badge/Nx-%2320232a?logo=nx&logoColor=16537e)](#)
 [![Turborepo](https://img.shields.io/badge/Turborepo-%2320232a?logo=turborepo&logoColor=a64d79)](#)
 [![Monogame](https://img.shields.io/badge/Monogame-%2320232a?logo=monogame&logoColor=e73c00)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
