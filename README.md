@@ -16,21 +16,21 @@ learning = "is-IS"
 ```
 
 ## Skills
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a?logo=latex&logoColor=00A0A0)](#)
-[![Warp](https://img.shields.io/badge/Warp-000?logo=warp&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-%2320232a?logo=git&logoColor=F05032)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=github&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?logo=html5&logoColor=%23E34F26)](#)
-[![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css&logoColor=639)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a?logo=typescript&logoColor=3178C6)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a?logo=javascript&logoColor=F7DF1E)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-%2320232a?logo=node.js&logoColor=6DA55F)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a?logo=typescript&logoColor=3178C6)](#)
-[![Vite](https://img.shields.io/badge/Vite-%2320232a?logo=vite&logoColor=646CFF)](#)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-%2320232a?logo=tailwindcss&logoColor=2338B2AC)](#)
+[![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?logo=html5&logoColor=%23E34F26)](#)
+[![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css&logoColor=639)](#)
+[![Vite](https://img.shields.io/badge/Vite-%2320232a?logo=vite&logoColor=646CFF)](#)
+[![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-%2320232a?logo=git&logoColor=F05032)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=github&logoColor=white)](#)
+[![Warp](https://img.shields.io/badge/Warp-000?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a?logo=latex&logoColor=00A0A0)](#)
 
 
 
