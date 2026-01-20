@@ -3,16 +3,30 @@
 name = "Jesús"
 age = 27
 degree = "Engineering"
-hobbies = "Gaming, Music, Books, Programming"
+role = "Frontend Developer"
+hobbies = ["Gaming", "Music", "Reading", "Programming"]
 
 [programmingLangs]
 favorite = "C#"
-learning = "JavaScript, React"
+stack = ["JavaScript", "TypeScript", "React"]
 
 [humanLangs]
 native = "es-MX"
-second = "en-US / en-GB"
+fluent = "en-US / en-GB"
 learning = "is-IS"
+
+[environment]
+os = "Windows"
+editor = "VSCode"
+terminal = "Warp"
+tooling = ["pnpm", "Obsidian"]
+
+[workspace]
+active_project = "Warframe Fashion Frame app"
+focus = ["UI/UX", "State Management", "Relational DB"]
+architecture = "Fullstack (Node/Express + React)"
+database = "PostgreSQL"
+stage = "Development / Prototyping"
 ```
 
 ## Skills
