@@ -7,8 +7,8 @@ role = "Frontend Developer"
 hobbies = ["Gaming", "Music", "Reading", "Programming"]
 
 [programmingLangs]
-favorite = "C#"
-stack = ["JavaScript", "TypeScript", "React"]
+favourite = "C# (Love it, but still mastering it)"
+stack = ["TypeScript", "JavaScript", "React", "Node.js", "TailwindCSS"]
 
 [humanLangs]
 native = "es-MX"
@@ -17,16 +17,17 @@ learning = "is-IS"
 
 [environment]
 os = "Windows"
-editor = "VSCode"
-terminal = "Warp"
-tooling = ["pnpm", "Obsidian"]
+favouriteEditor = "VSCode"
+favouriteTerminal = "Warp"
+tooling = ["Git", "pnpm", "Vite", "Yaak", "Obsidian"]
 
 [workspace]
-active_project = "Warframe Fashion Frame app"
+activeProject = "Warframe Fashion Frame app"
 focus = ["UI/UX", "State Management", "Relational DB"]
 architecture = "Fullstack (Node/Express + React)"
-database = "PostgreSQL"
+database = "PostgreSQL (planned)"
 stage = "Development / Prototyping"
+longTermTech = [".NET", "C#", "F#"]
 ```
 
 ## Skills
@@ -39,16 +40,18 @@ stage = "Development / Prototyping"
 [![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css&logoColor=639)](#)
 [![Vite](https://img.shields.io/badge/Vite-%2320232a?logo=vite&logoColor=646CFF)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-%2320232a?logo=git&logoColor=F05032)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=github&logoColor=white)](#)
 [![Warp](https://img.shields.io/badge/Warp-000?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a?logo=latex&logoColor=00A0A0)](#)
 
 
 
 <!---
+Note: I have experience with LaTeX for storywriting, but is not that relevant here so... lol
+
+[![Git](https://img.shields.io/badge/Git-%2320232a?logo=git&logoColor=F05032)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=github&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a?logo=latex&logoColor=00A0A0)](#)
 [![Nx](https://img.shields.io/badge/Nx-%2320232a?logo=nx&logoColor=16537e)](#)
 [![Turborepo](https://img.shields.io/badge/Turborepo-%2320232a?logo=turborepo&logoColor=a64d79)](#)
 [![Monogame](https://img.shields.io/badge/Monogame-%2320232a?logo=monogame&logoColor=e73c00)](#)
