@@ -40,7 +40,7 @@ longTermTech = [".NET", "C#", "F#"]
 [![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css&logoColor=639)](#)
 [![Vite](https://img.shields.io/badge/Vite-%2320232a?logo=vite&logoColor=646CFF)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
-[![Warp](https://img.shields.io/badge/Warp-000?logo=warp&logoColor=fff)](#)
+[![Warp](https://img.shields.io/badge/Warp-%2320232a?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
 
