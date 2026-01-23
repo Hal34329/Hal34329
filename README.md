@@ -1,9 +1,10 @@
 <!---
-![Github borðinn minn](Hal34329_RedBanner.png)
-![Github borðinn minn](Hal34329_GreenBanner.png)
+![Rauður Github borði](Hal34329_RedBanner.png)
+![Grænn Github borði](Hal34329_GreenBanner.png)
+![Blár Github borði](Hal34329_BlueBanner.png)
 
 --->
-![Github borðinn minn](Hal34329_PurpleBanner.png)
+![Fjólublár Github borði](Hal34329_PurpleBanner.png)
 
 ```toml
 [user]
