@@ -1,3 +1,4 @@
+![Github borðinn minn](Hal34329_RedBanner.png)
 ```toml
 [user]
 name = "Jesús"
