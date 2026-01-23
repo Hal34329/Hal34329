@@ -1,4 +1,10 @@
+<!---
 ![Github borðinn minn](Hal34329_RedBanner.png)
+![Github borðinn minn](Hal34329_GreenBanner.png)
+
+--->
+![Github borðinn minn](Hal34329_PurpleBanner.png)
+
 ```toml
 [user]
 name = "Jesús"
