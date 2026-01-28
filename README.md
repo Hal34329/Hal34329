@@ -53,7 +53,7 @@ longTermTech = [".NET", "C#", "F#"]
 [![Postgres](https://img.shields.io/badge/Postgres-%2320232a.svg?logo=postgresql&logoColor=008bb9)](#)
 [![Warp](https://img.shields.io/badge/Warp-%2320232a?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=cshrp&logoColor=639)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=csharp-purple&logoColor=639)](#)
 
 
 
