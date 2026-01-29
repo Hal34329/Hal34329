@@ -28,12 +28,13 @@ os = "Windows"
 favouriteEditor = "VSCode"
 favouriteTerminal = "Warp"
 tooling = ["Git", "pnpm", "Vite", "Yaak", "Obsidian"]
+backendCapability = ["Express", "PostgreSQL", "Drizzle", "Zod"]
 
 [workspace]
 activeProject = "Warframe Fashion Frame app"
 focus = ["UI/UX", "State Management", "Relational DB"]
 architecture = "Fullstack (Node/Express + React)"
-database = "PostgreSQL (planned)"
+database = "PostgreSQL"
 stage = "Development / Prototyping"
 longTermTech = [".NET", "C#", "F#"]
 ```
@@ -51,6 +52,7 @@ longTermTech = [".NET", "C#", "F#"]
 [![Express.js](https://img.shields.io/badge/Express.js-%2320232a.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Drizzle](https://img.shields.io/badge/Drizzle-%2320232a?logo=drizzle&logoColor=C5F74F)](#)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?logo=postgresql&logoColor=008bb9)](#)
+[![Zod](https://img.shields.io/badge/Zod-%2320232a.svg?logo=zod&logoColor=2596be)](#)
 [![Warp](https://img.shields.io/badge/Warp-%2320232a?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=csharp-purple&logoColor=639)](#)
