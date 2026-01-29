@@ -17,6 +17,7 @@ hobbies = ["Gaming", "Music", "Reading", "Programming"]
 [programmingLangs]
 favourite = "C# (Love it, but still mastering it)"
 stack = ["TypeScript", "JavaScript", "React", "Node.js", "TailwindCSS"]
+complementaryStack = ["Express", "PostgreSQL", "Drizzle", "Zod"]
 
 [humanLangs]
 native = "es-MX"
@@ -28,7 +29,6 @@ os = "Windows"
 favouriteEditor = "VSCode"
 favouriteTerminal = "Warp"
 tooling = ["Git", "pnpm", "Vite", "Yaak", "Obsidian"]
-backendCapability = ["Express", "PostgreSQL", "Drizzle", "Zod"]
 
 [workspace]
 activeProject = "Warframe Fashion Frame app"
