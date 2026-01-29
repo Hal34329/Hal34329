@@ -50,7 +50,7 @@ longTermTech = [".NET", "C#", "F#"]
 [![pnpm](https://img.shields.io/badge/pnpm-%2320232a?logo=pnpm&logoColor=fff)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%2320232a.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Drizzle](https://img.shields.io/badge/Drizzle-%2320232a?logo=drizzle&logoColor=C5F74F)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%2320232a.svg?logo=postgresql&logoColor=008bb9)](#)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?logo=postgresql&logoColor=008bb9)](#)
 [![Warp](https://img.shields.io/badge/Warp-%2320232a?logo=warp&logoColor=fff)](#)
 [![Yaak](https://img.shields.io/badge/Yaak-%2320232a?logo=yaak&logoColor=a89aea)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2320232a.svg?logo=csharp-purple&logoColor=639)](#)
